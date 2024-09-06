@@ -4,7 +4,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a NERD
 
-<!---
-tanayadutt/tanayadutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Trying to build a portfolio to showcase my skills as an Entry-Level Data Analyst graduating in December 2024
